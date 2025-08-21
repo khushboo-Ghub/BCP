@@ -1,4 +1,4 @@
-# 9
+# calculate sum of the digits of the given number N. 
 N = int(input("Enter an integer N: "))
 sum_digits = 0
 temp = N
