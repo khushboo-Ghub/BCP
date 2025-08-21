@@ -1,4 +1,4 @@
-# 8
+# print the count of digits of N number
 N = int(input("Enter an integer N: "))
 count = 0
 temp = N
