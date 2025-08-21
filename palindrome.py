@@ -1,4 +1,4 @@
-# 10
+#check whether a number is palindrome or not
 A = int(input("Enter an integer A: "))
 original = A
 reverse = 0
