@@ -1,8 +1,8 @@
 # print the count of digits of N number
-N = int(input("Enter an integer N: "))
+n = int(input("Enter a number "))
 count = 0
-temp = N
-while temp != 0:
-    temp = temp // 10
+d = n
+while d!= 0:
+    d = d // 10
     count += 1
 print(count)
